@@ -1,0 +1,28 @@
+{
+  "name": "sequelize-post-server-with-filters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khoby-790/sequelize-post-server-with-filters.git"
+  },
+  "author": "Khoby-790",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khoby-790/sequelize-post-server-with-filters/issues"
+  },
+  "homepage": "https://github.com/Khoby-790/sequelize-post-server-with-filters#readme",
+  "dependencies": {
+    "apollo-server": "^3.1.1",
+    "apollo-server-express": "^3.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  }
+}
